@@ -99,5 +99,3 @@ This project is licensed under the MIT License. See `LICENSE` for more details.
 For more information, feel free to reach out!
 
 - Nagendra Govindu
-- Sweekratha
-- Dipak Kumar
